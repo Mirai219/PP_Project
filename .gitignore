@@ -1,0 +1,9 @@
+**/__pycache__
+
+# virtual envs
+.venv
+
+# logs
+*.log
+
+**/session.json
